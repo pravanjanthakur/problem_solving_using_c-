@@ -3,6 +3,7 @@ using namespace std;
 
 
 
+
 int AnyBaseToDecimal(int a, int b){
 int ans=0;
 int power=1;
