@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int AnyBaseToDecimal(int n, int b){
     int ans=0;
     int power=1;
