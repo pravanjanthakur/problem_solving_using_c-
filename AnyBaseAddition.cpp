@@ -11,6 +11,7 @@ while(n!=0){
 }            
 return ans;  
     
+    
 }
 int DecimalToAnyBase(int num, int b){
 int ans=0;
