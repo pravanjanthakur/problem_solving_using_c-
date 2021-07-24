@@ -8,8 +8,7 @@ while(n!=0){
     n=n/10;
     ans=ans+(r*power);
     power=power*b;
-}               
-    
+}                   
 return ans;   
 }
 int DecimalToAnyBase(int num, int b){
