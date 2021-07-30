@@ -10,6 +10,12 @@ while(n!=0){
     power=power*b;
 }                   
 return ans;           
+ 
+    
+    
+    
+    
+    
     
 }
 int DecimalToAnyBase(int num, int b){
