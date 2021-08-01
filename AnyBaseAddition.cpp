@@ -20,7 +20,6 @@ int power=1;
         num=num/b;
         ans=ans+(r*power);
         power=power*10;
-
     }
 return ans;
 }
