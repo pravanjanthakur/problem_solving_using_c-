@@ -10,8 +10,7 @@ while(n!=0){
     power=power*b;
 }                   
 return ans;             
-    
-    
+   
     
     
 }
