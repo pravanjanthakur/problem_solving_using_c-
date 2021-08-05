@@ -7,6 +7,7 @@ while(n!=0){
     int r= n%10;
     n=n/10;
     ans=ans+(r*power);
+    
     power=power*b;
 }      
 return ans;             
